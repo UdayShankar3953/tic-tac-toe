@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Screenshot](stic-tac.png)
+![Tic-Tac-Toe Screenshot]([stic-tac.png](https://github.com/UdayShankar3953/tic-tac-toe/blob/main/tic-tac.png))
 
 A simple implementation of the classic Tic-Tac-Toe game.
 
