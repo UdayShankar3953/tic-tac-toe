@@ -26,6 +26,6 @@ You can play the game online at [link to live demo] or check out the screenshots
 ### Prerequisites
 
 To run this project, you will need:
--HTML
--CSS
--JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
