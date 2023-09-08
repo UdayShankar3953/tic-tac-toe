@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Screenshot](screenshot.png)
+![Tic-Tac-Toe Screenshot](stic-tac.png)
 
 A simple implementation of the classic Tic-Tac-Toe game in [programming language or framework] for [platform].
 
